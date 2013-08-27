@@ -1,0 +1,15 @@
+= Uberlogger
+
+home :: https://github.com/austin-surfeasy/uberlogger
+code :: https://github.com/austin-surfeasy/uberlogger
+bugs :: https://github.com/austin-surfeasy/uberlogger/issues
+
+== Description
+
+This is a super logger, literally an uber-logger. The goal is to provide a
+python-like logging facility, with relatively simple to use logging
+functionality that supports multiple logging mechanisms.
+
+    x = UberLogger.instance.getLogger('logger-name')
+
+:include: Licence.rdoc

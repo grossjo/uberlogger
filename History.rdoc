@@ -1,0 +1,15 @@
+== 0.6.2
+* Adding access to the internal Log4R through an attr_reader.
+
+== 0.6.1
+* Fixed the default pattern.
+
+== 0.6
+* Added a two-parameter logger method. Allows reduction of code on the client
+  side.
+* Added pattern specification to intialization.
+* Fixed a bug with log acquisition.
+* Added unit tests.
+
+== 0.5
+* Cleaned-up version. It's now much more Ruby-ish.
