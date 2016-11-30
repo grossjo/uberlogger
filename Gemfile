@@ -9,13 +9,5 @@ gem "log4r", "~>1.1.0"
 gem "rubyforge", ">=2.0.4", :group => [:development, :test]
 gem "minitest", "~>4.5", :group => [:development, :test]
 gem "rdoc", "~>3.10", :group => [:development, :test]
-gem "hoe-bundler", "~>1.2", :group => [:development, :test]
-gem "hoe-doofus", "~>1.0", :group => [:development, :test]
-gem "hoe-gemspec", "~>1.0", :group => [:development, :test]
-gem "hoe-git", "~>1.5", :group => [:development, :test]
-gem "hoe-rubygems", "~>1.0", :group => [:development, :test]
-gem "hoe-travis", "~>1.2", :group => [:development, :test]
-gem "rake", "~>10.0", :group => [:development, :test]
-gem "hoe", "~>3.5", :group => [:development, :test]
 
 # vim: syntax=ruby

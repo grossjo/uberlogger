@@ -3,6 +3,5 @@ History.rdoc
 Licence.rdoc
 Manifest.txt
 README.rdoc
-Rakefile
 lib/uberlogger.rb
 uberlogger.gemspec
